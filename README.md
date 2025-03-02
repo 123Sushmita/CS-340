@@ -12,3 +12,4 @@ When tackling a problem, I break it down into smaller, manageable components and
 What do computer scientists do, and why does it matter?
 
 Computer scientists develop solutions that optimize processes, enhance decision-making, and improve user experiences. In this project, my work contributed to Grazioso Salvare’s ability to manage and analyze data efficiently. By designing a structured database and a user-friendly dashboard, I enabled streamlined data access and visualization. This kind of work is crucial for businesses and organizations that rely on data-driven decision-making. A well-implemented system improves operational efficiency, reduces errors, and enhances overall productivity, demonstrating the significant impact of computer science in real-world applications.
+
